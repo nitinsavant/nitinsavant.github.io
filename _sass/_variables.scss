@@ -1,23 +1,26 @@
 // COLORS ====================================
 
 // COLORS - INDEX ------------------
-$gray-dark:                 #333;
+$gray-dark:                 #4F4C48;
 $gray:                      #55595c;
 $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fafaf8;
 
-$blue:                      #4072AF;
-$light-blue:                lighten($blue, 45%);
-$dark-blue:                 darken($blue, 20%);
+$greige:                    #77736d;
+$gold:                      #f2b61a;
 
-$ligt-yellow:               #fcf8e3;
+$teal:                      #2EB5AA;
+$light-teal:                lighten(#8FB2B5, 30%);
+$dark-teal:                 darken($teal, 10%);
+
+$light-yellow:              #fcf8e3;
 
 $red:                       #bd4147;
 
 // COLORS - BRAND ------------------
-$brand-color:               $blue;
-$brand-light-color:         $light-blue;
+$brand-color:               $teal;
+$brand-light-color:         $light-teal;
 $brand-secondary:           $gray-dark;
 $text-muted:                $gray-light;
 
@@ -29,7 +32,7 @@ $body-color:                $gray-dark;
 // GLOBALS - LINKS ------------------
 $link-color:                $brand-color;
 $link-decoration:           none;
-$link-hover-color:          $dark-blue;
+$link-hover-color:          $dark-teal;
 $link-hover-decoration:     underline;
 
 // GLOBALS - SPACERS ------------------
@@ -52,7 +55,7 @@ $font-family-monospace:     Menlo, Monaco, Consolas, "Liberation Mono", "Courier
 $font-heading:              "Lato", serif;
 
 $lh:                        1.5;
-$lh-sm:                     1.1;
+$lh-sm:                     1.2;
 $lh-md:                     1.6;
 
 $fs-root:                   16px;

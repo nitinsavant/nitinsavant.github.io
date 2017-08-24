@@ -163,7 +163,7 @@ p.post-desc {
 // PAGE ABOUT ====================================
 
 .lead-about {
-  color: $dark-blue;
+  color: $dark-teal;
 }
 
 .site-profile {
@@ -173,10 +173,17 @@ p.post-desc {
   margin: -.4rem 1rem 0 $spacer;
 }
 
+.project-logo {
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin: -2.5rem 1rem 0 -1rem;
+}
+
 @include mq-up(md) {
   .site-profile {
-    width: 144px;
-    height: 144px;
+    width: 175px;
+    height: 175px;
     margin: -1.2rem 1rem 0 2rem;
   }
 }
