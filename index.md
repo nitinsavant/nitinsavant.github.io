@@ -1,13 +1,26 @@
 ---
-layout: default
+layout: page
+title: Home
+subtitle: Hello!
 ---
 
-<div class="lead pretty-links">
-  Hello! You have reached the site of Terry Lee, a software engineer based in the San Francisco Bay Area.
+<div class="pretty-links">
 
-  <h3>Xorro P2P</h3>
+<div class="lead lead-about">I'm a software engineer based in the San Francisco Bay Area.
+</div>
 
-  Xorro P2P is a mini BitTorrent peer-to-peer file sharing network built by myself and two teammates. [Check it out here](https://xorro-p2p.github.io/).
+Aside from coding, I have worn many hats over the course of my career in tech. With 10 years of experience in product management, project management, UX, and web design, I know how to build products from start to finish.
 
-  [View additional projects](projects/)
+
+<h2>Latest Project</h2>
+
+{::nomarkdown} 
+<figure class="project-logo">
+  <img src="{{ site.baseurl }}/assets/img/iggy_logo.svg">
+</figure>
+{:/}
+
+I'm a co-author of Xorro P2P, a Ruby implementation of a mini BitTorrent peer-to-peer file sharing network.
+
+[Check it out here](https://xorro-p2p.github.io/).
 </div>
