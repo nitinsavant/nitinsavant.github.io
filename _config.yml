@@ -36,7 +36,7 @@ navigation:
     url: /about/
     desc: Learn about me
   - title: Resume
-    url: https://dmono.github.io/assets/files/TerryLee-SoftwareEngineerResume.pdf
+    url: /resume/
     desc: My resume
 
 # Used by Jekyll to recognize what is a post and what is a page
