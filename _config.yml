@@ -1,21 +1,19 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: dmono portfolio site               # used for the html title of every page
+title: Nitin Savant               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nitin Savant's personal website.
 
-url: http://dmono.github.io      # put your website hosting url here
+url: http://www.nitinsavant.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: terryleedev@gmail.com
+email: nitinsavant@gmail.com
 author:
 twitter_username:
-github_username: dmono
+github_username: nitinsavant
 github_source:
 
 # Put your ga tracking code below
@@ -32,12 +30,15 @@ navigation:
   - title: Projects
     url: /projects/
     desc: Cool stuff I've worked on
-  - title: About
-    url: /about/
-    desc: Learn about me
   - title: Resume
     url: /resume/
     desc: My resume
+  - title: About
+    url: /about/
+    desc: My about
+  - title: Blog
+    url: /blog/
+    desc: My blog
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
@@ -63,4 +64,3 @@ exclude:
   - vendor
 plugins:
   - jekyll-paginate
-

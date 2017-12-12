@@ -6,26 +6,26 @@ subtitle: Hello!
 
 <div class="pretty-links">
 
-{::nomarkdown} 
+{::nomarkdown}
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/about_profile.svg">
+    <img src="{{ site.baseurl }}/assets/img/profile-pic.png">
 </figure>
 {:/}
 
-<div class="lead lead-about">I'm a software engineer based in the<br />San Francisco Bay Area.
+<div class="lead lead-about">
+  I'm a software engineer based in Minneapolis.
 </div>
 
-Aside from coding, I have worn many hats over the course of my career in tech. With 10 years of experience in product management, project management, UX, and web design, I know how to build products from start to finish.
+Aside from programming, I have worn many hats over the course of my career in tech. With 5 years of experience in requirements gathering, project management, and implementation, I know how to complete projects from start to finish.
 
 <h2>Latest Project</h2>
 
-{::nomarkdown} 
+{::nomarkdown}
 <figure class="project-logo">
-  <img src="{{ site.baseurl }}/assets/img/iggy_logo.svg">
+  <img src="{{ site.baseurl }}/assets/img/conclave-mask-small.png">
 </figure>
 {:/}
 
-I'm a co-author of Xorro P2P, a Ruby implementation of a mini BitTorrent peer-to-peer file sharing network.
+I'm the co-creator of [Conclave](http://conclave-app.herokuapp.com), a CRDT and WebRTC based real-time, peer-to-peer, collaborative text editor built from scratch in JavaScript.
 
-[Check it out here](https://xorro-p2p.github.io/).
-</div>
+Read our [case study](https://conclave-team.github.io/conclave-site/) to learn more.
