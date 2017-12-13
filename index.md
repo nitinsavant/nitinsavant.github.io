@@ -22,9 +22,9 @@ Aside from programming, I have worn many hats over the course of my career. With
 
 {::nomarkdown}
 <figure class="project-logo">
-  <img src="{{ site.baseurl }}/assets/img/conclave-mask-small.png">
+  <img src="{{ site.baseurl }}/assets/img/conclave-mask.png">
 </figure>
 {:/}
 
-I'm the co-creator of [Conclave](http://conclave-app.herokuapp.com), a CRDT and WebRTC based real-time collaborative text editor built from scratch in JavaScript.
-Read our [case study](https://conclave-team.github.io/conclave-site/) to learn more.
+I'm the co-creator of [Conclave](http://conclave-app.herokuapp.com){:target="_blank"}, a CRDT and WebRTC based real-time collaborative text editor built from scratch in JavaScript.
+Read our [case study](https://conclave-team.github.io/conclave-site/){:target="_blank"} to learn more.
