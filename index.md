@@ -16,7 +16,7 @@ subtitle: Hello!
   I'm a software engineer based in Minneapolis.
 </div>
 
-Aside from programming, I have worn many hats over the course of my career in tech. With 5 years of experience in requirements gathering, project management, and implementation, I know how to complete projects from start to finish.
+Aside from programming, I have worn many hats over the course of my career. With 5+ years of experience in requirements gathering, project management, and software implementations, I know how to complete projects from start to finish.
 
 <h2>Latest Project</h2>
 
@@ -26,6 +26,5 @@ Aside from programming, I have worn many hats over the course of my career in te
 </figure>
 {:/}
 
-I'm the co-creator of [Conclave](http://conclave-app.herokuapp.com), a CRDT and WebRTC based real-time, peer-to-peer, collaborative text editor built from scratch in JavaScript.
-
+I'm the co-creator of [Conclave](http://conclave-app.herokuapp.com), a CRDT and WebRTC based real-time collaborative text editor built from scratch in JavaScript.
 Read our [case study](https://conclave-team.github.io/conclave-site/) to learn more.
