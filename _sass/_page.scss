@@ -164,6 +164,7 @@ p.post-desc {
 
 .lead-about {
   color: $dark-teal;
+  margin-bottom: 40px;
 }
 
 .site-profile {
@@ -171,6 +172,11 @@ p.post-desc {
   width: 96px;
   height: 96px;
   margin: -.4rem 1rem 0 $spacer;
+}
+
+.site-profile img {
+  border-radius: 20%;
+  margin-top: 20px;
 }
 
 .project-logo {

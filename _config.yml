@@ -9,12 +9,6 @@ url: http://www.nitinsavant.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
-# Meta settings
-email: nitinsavant@gmail.com
-author:
-twitter_username:
-github_username: nitinsavant
-github_source:
 
 # Put your ga tracking code below
 google_analytics:
@@ -33,9 +27,6 @@ navigation:
   - title: Resume
     url: /resume/
     desc: My resume
-  - title: About
-    url: /about/
-    desc: My about
   - title: Blog
     url: /blog/
     desc: My blog
