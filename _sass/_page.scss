@@ -27,7 +27,7 @@
 @include mq-up(md) {
   .page-header,
   .post-header {
-    margin-bottom: $spacer2;
+    margin-bottom: $spacer;
   }
 
   .post-content,
@@ -39,7 +39,6 @@
 
     h2 {
       margin-top: $spacer4;
-      margin-bottom: $spacer1;
     }
 
     h3 {
