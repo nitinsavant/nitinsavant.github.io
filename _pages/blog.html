@@ -1,0 +1,13 @@
+---
+layout: page
+title: Blog
+subtitle: Blog Posts
+desc: My writings.
+permalink: /blog/
+---
+
+<section class="list">
+	{% for post in site.posts %}
+			{% include blog-post.html %}
+	{% endfor %}
+</section>
